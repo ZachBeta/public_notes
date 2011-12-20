@@ -25,3 +25,7 @@
 
 * `:lgrep` `:lvimgrep`
 * `:lw` or `:lopen`
+
+##Magic and Unicorns
+
+* `:<up>` command history with tab completion
