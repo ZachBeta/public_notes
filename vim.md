@@ -35,8 +35,8 @@
 
 ##Magic and Unicorns
 
-* `:<up>` command history with tab completion
-* `q a` begin recording macro into buffer a
-* `q` end recording macro
-* `1@a` repeat macro once
-* `400@a` repeat macro 400 times
+* `:<up>` - command history with tab completion
+* `q a` - begin recording macro into buffer a
+* `q` - end recording macro
+* `1@a` - repeat macro once
+* `400@a` - repeat macro 400 times
