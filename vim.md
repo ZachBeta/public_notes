@@ -1,5 +1,12 @@
 #Collection of useful shortcuts for vim
 
+##Modes
+
+* `i` insert mode
+* `a` append from marker
+* `A` append from end of line
+* `C-[` - exit mode
+
 ##Editing
 
 * `o` - new line and insert
@@ -9,10 +16,10 @@
 * `p` - paste after cursor
 * `P` - paste before cursor
 
-* `C-[` - exit mode
-
 * `u` - undo
 * `C-r` - redo
+
+* `:%s/foo/bar/g` - Find/replace
 
 ##Buffers/Windows
 
