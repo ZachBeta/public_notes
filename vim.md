@@ -35,8 +35,15 @@
 
 ##Magic and Unicorns
 
+###Macros
+
 * `:<up>` - command history with tab completion
 * `q a` - begin recording macro into buffer a
 * `q` - end recording macro
 * `1@a` - repeat macro once
 * `400@a` - repeat macro 400 times
+
+###Autoindent
+1. `:set filetype=xml`
+2. `:filetype indent on`
+3. `gg=G`
