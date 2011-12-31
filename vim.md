@@ -11,14 +11,12 @@
 
 * `o` - new line and insert
 * `O` - new line and insert above
-
 * `yy` - yank line
 * `p` - paste after cursor
 * `P` - paste before cursor
-
+* `:r !pbpaste` - paste from osx clipboard
 * `u` - undo
 * `C-r` - redo
-
 * `:%s/foo/bar/g` - Find/replace
 
 ##Buffers/Windows
@@ -29,7 +27,6 @@
 
 * `:grep` or `:vimgrep`
 * `:cw` or `:copen`
-
 * `:lgrep` `:lvimgrep`
 * `:lw` or `:lopen`
 
