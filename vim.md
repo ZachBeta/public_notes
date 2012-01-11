@@ -29,6 +29,7 @@
 * `:cw` or `:copen`
 * `:lgrep` `:lvimgrep`
 * `:lw` or `:lopen`
+* Sample: `:vimgrep /user/ ./**/*.rb` && `:copen`
 
 ##Magic and Unicorns
 
