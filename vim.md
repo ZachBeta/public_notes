@@ -18,6 +18,7 @@
 * `u` - undo
 * `C-r` - redo
 * `:%s/foo/bar/g` - Find/replace
+* `:'<,'>s/red/green/g` - Find/replace in a selection.  Start with `v`, select text, `:` for a command
 
 ##Buffers/Windows
 
